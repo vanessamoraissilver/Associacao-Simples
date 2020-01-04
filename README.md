@@ -1,1 +1,5 @@
-# Associacao-Simples
+# Associação Simples
+
+## Modelo
+
+- Apriori
